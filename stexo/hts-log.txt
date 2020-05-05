@@ -1,0 +1,35 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 29 Apr 2020 21:01:27 at https://themesdesign.in/stexo/layouts/vertical/index.html? +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themesdesign.in/stexo/layouts/vertical/index.html? -O1 "C:\My Web Sites\stexo" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:07:49	Error: 	"Not Found" (404) at link https://themesdesign.in/stexo/layouts/vertical/assets/images/bg-pattern.png (from https://themesdesign.in/stexo/layouts/vertical/assets/css/style.css)
+21:08:11	Error: 	"Not Found" (404) at link https://themesdesign.in/stexo/layouts/vertical/clipboard.png (from https://themesdesign.in/stexo/layouts/plugins/summernote/summernote-bs4.min.js)
+21:08:11	Warning: 	Moved Permanently for https://themesdesign.in/stexo/layouts/vertical/image/
+21:08:11	Warning: 	File has moved from https://themesdesign.in/stexo/layouts/vertical/image/ to https://themesdesign.in/stexo/layouts/vertical/image
+21:08:12	Warning: 	Moved Permanently for https://themesdesign.in/stexo/layouts/vertical/specified parentLocale is not defined yet. See http://momentjs.com/guides/
+21:08:12	Warning: 	File has moved from https://themesdesign.in/stexo/layouts/vertical/specified parentLocale is not defined yet. See http://momentjs.com/guides/ to https://themesdesign.in/stexo/layouts/vertical/specified%20parentLocale%20is%20not%20defined%20yet.%20See%20http:/momentjs.com/guides
+21:08:12	Warning: 	Moved Permanently for https://themesdesign.in/stexo/layouts/vertical/isDSTShifted is deprecated. See http://momentjs.com/guides/
+21:08:12	Warning: 	File has moved from https://themesdesign.in/stexo/layouts/vertical/isDSTShifted is deprecated. See http://momentjs.com/guides/ to https://themesdesign.in/stexo/layouts/vertical/isDSTShifted%20is%20deprecated.%20See%20http:/momentjs.com/guides
+21:08:13	Warning: 	Moved Permanently for https://themesdesign.in/stexo/layouts/vertical/Trident/
+21:08:13	Warning: 	File has moved from https://themesdesign.in/stexo/layouts/vertical/Trident/ to https://themesdesign.in/stexo/layouts/vertical/Trident
+21:08:13	Warning: 	Moved Permanently for https://themesdesign.in/stexo/layouts/vertical/Edge/
+21:08:13	Warning: 	File has moved from https://themesdesign.in/stexo/layouts/vertical/Edge/ to https://themesdesign.in/stexo/layouts/vertical/Edge
+21:08:14	Error: 	"Not Found" (404) at link https://themesdesign.in/stexo/layouts/vertical/zlib/deflate.js (from https://themesdesign.in/stexo/layouts/plugins/datatables/jszip.min.js)
+21:08:14	Error: 	"Not Found" (404) at link https://themesdesign.in/stexo/layouts/vertical/zlib/inflate.js (from https://themesdesign.in/stexo/layouts/plugins/datatables/jszip.min.js)
+21:08:14	Error: 	"Not Found" (404) at link https://themesdesign.in/stexo/layouts/vertical/xl/worksheets/sheet1.xml (from https://themesdesign.in/stexo/layouts/plugins/datatables/buttons.html5.min.js)
+21:08:14	Error: 	"Not Found" (404) at link https://themesdesign.in/stexo/layouts/vertical/xl/workbook.xml (from https://themesdesign.in/stexo/layouts/plugins/datatables/buttons.html5.min.js)
+21:08:14	Error: 	"Not Found" (404) at link https://themesdesign.in/stexo/layouts/vertical/xl/styles.xml (from https://themesdesign.in/stexo/layouts/plugins/datatables/buttons.html5.min.js)
+21:08:14	Error: 	"Not Found" (404) at link https://themesdesign.in/stexo/layouts/vertical/[Content_Types].xml (from https://themesdesign.in/stexo/layouts/plugins/datatables/buttons.html5.min.js)
+21:08:14	Error: 	"Not Found" (404) at link https://themesdesign.in/stexo/layouts/vertical/buttons.pdf (from https://themesdesign.in/stexo/layouts/plugins/datatables/buttons.html5.min.js)
+21:08:14	Error: 	"Not Found" (404) at link https://themesdesign.in/stexo/layouts/vertical/image (from https://themesdesign.in/stexo/layouts/vertical/image/)
+21:08:14	Error: 	"Not Found" (404) at link https://themesdesign.in/stexo/layouts/vertical/specified parentLocale is not defined yet. See http:/momentjs.com/guides (from https://themesdesign.in/stexo/layouts/vertical/specified parentLocale is not defined yet. See http://momentjs.com/guides/)
+21:08:14	Error: 	"Not Found" (404) at link https://themesdesign.in/stexo/layouts/vertical/isDSTShifted is deprecated. See http:/momentjs.com/guides (from https://themesdesign.in/stexo/layouts/vertical/isDSTShifted is deprecated. See http://momentjs.com/guides/)
+21:08:14	Error: 	"Not Found" (404) at link https://themesdesign.in/stexo/layouts/vertical/Trident (from https://themesdesign.in/stexo/layouts/vertical/Trident/)
+21:08:14	Error: 	"Not Found" (404) at link https://themesdesign.in/stexo/layouts/vertical/Edge (from https://themesdesign.in/stexo/layouts/vertical/Edge/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 47 seconds : 267 links scanned, 247 files written (19440234 bytes overall) [8058071 bytes received at 19798 bytes/sec], 14505246 bytes transferred using HTTP compression in 181 files, ratio 21%, 12.1 requests per connection
+(14 errors, 10 warnings, 0 messages)
